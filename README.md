@@ -12,8 +12,8 @@ Room rotation and modification
 Save and load floor plans
 Grid-based layout for accurate placement
 Collision detection to prevent overlapping rooms
-Prerequisites (Windows)
 
+Prerequisites (Windows):
 Ensure the following are installed on your Windows system:
 
 Java Development Kit (JDK) 17 or higher
