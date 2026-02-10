@@ -1,4 +1,4 @@
-2D Floor Planner
+BUILD2D
 
 A Java-based desktop application for creating and managing 2D floor plans with a clean, modern user interface using FlatLaf.
 
